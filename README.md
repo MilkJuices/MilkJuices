@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @MilkJuices
 - 👀 I’m interested in Milk
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: Milk is not juice
 
 <!---
