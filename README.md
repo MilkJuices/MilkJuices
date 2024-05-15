@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MilkJuices
-- 👀 I’m interested in Milk
-- 🌱 I’m currently learning 
-- ⚡ Fun fact: Milk is not juice
+- ⚡ Fun fact: Milk is not a juice
 
 <!---
 MilkJuices/MilkJuices is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
